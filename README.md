@@ -19,6 +19,17 @@
     <td><img src="Password_toggle_pwtype.png"></td>
   </tr>
 
+ <tr>
+    <td> <b>Check-boxen toggling </b> - ticking of boxes permitted under certain circumstances</td>
+    <td><img src="Checkboxing.png"></td>
+    <td><img src="Checkboxing.png"></td>
+  </tr>
+
+   <tr>
+    <td> <b> Counter </b> - change of numbers and background gradient upon clicking</td>
+    <td><img src="Counter_1.png"></td>
+    <td><img src="Counter_2.png"></td>
+  </tr>
 </table>
 
 </body>
