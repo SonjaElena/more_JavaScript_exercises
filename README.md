@@ -30,6 +30,13 @@
     <td><img src="Counter_1.png"></td>
     <td><img src="Counter_2.png"></td>
   </tr>
+
+  <tr>
+    <td> <b> Color mixer </b> - change of range items leads to changing background</td>
+    <td><img src="Color_mixer1.png"></td>
+    <td><img src="Color_mixer2.png"></td>
+  </tr>
+  
 </table>
 
 </body>
