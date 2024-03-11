@@ -9,6 +9,7 @@
 <tr>
      <td> <b>New Quotes </b> - use the fancy button to get random new quotes </td>
     <td><img src="quote.png"></td>
+    <td><img src="quote2.png"></td>
     
   </tr>
 
