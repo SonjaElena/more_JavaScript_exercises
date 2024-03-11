@@ -6,6 +6,11 @@
 <h3>Collection of web application exercises with HTML, CSS and JavaScript</h3>
 
 <table style="width:100%">
+<tr>
+     <td> <b>New Quotes </b> - use the fancy button to get random new quotes </td>
+    <td><img src="quote.png"></td>
+    
+  </tr>
 
   <tr>
      <td> <b>Light button </b> - switch from light to dark and back upon clicking </td>
